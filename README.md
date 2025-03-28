@@ -64,7 +64,14 @@ Ketika pengguna mengklik salah satu baris pada tabel, event `mouseListener` akan
 - Jika tombol **Cancel** ditekan, maka form akan dikosongkan menggunakan `clearForm()`.
 
 ## Dokumentasi 
- 
 
 
+ ![Screenshot 2025-03-27 233348](https://github.com/user-attachments/assets/f3a0a5e0-a7b6-4ffd-95b8-b6c75a2ad503)
 
+![Screenshot 2025-03-27 233520](https://github.com/user-attachments/assets/5948ebdc-c072-4492-9388-89587a364322)
+
+![Screenshot 2025-03-27 233812](https://github.com/user-attachments/assets/6343034f-9c7d-46a0-b06f-fe930f0608af)
+
+
+![Screenshot 2025-03-27 233532](https://github.com/user-attachments/assets/9373d5f5-21b5-4a6c-be41-ac24678e1ef3)
+![Screenshot 2025-03-27 233555](https://github.com/user-attachments/assets/800c2ce9-a387-41be-ae5d-1c130d96e880)
